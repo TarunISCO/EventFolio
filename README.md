@@ -1,8 +1,8 @@
 # EventFolio
 
-EventFolio is an Android Application which helps you in gathering students for various activities based on their interest. 
+EventFolio is an Android Application which helps you in gathering students for various activities based on their interests.
 
-Objective of this application is to provide a platform for students. Student,who may wish to organize an event for an activity for which he requires other interested students, can create event in the application. The students who wants to participate in that event must mark their presence so that host of the event can calculate the number of interested students and proceed accordingly.
+The objective of this application is to provide a platform for students. A student, who may wish to organize an event for an activity for which he/she requires other interested students, can create an event in this application. The students who want to participate in that event must mark their presence so that the host of the event can calculate the number of interested students and proceed accordingly.
 
 
 [![Join the chat at https://gitter.im/DeepBench/Lobby](https://badges.gitter.im/Masterminds/glide.svg)](https://gitter.im/DeepBench/Lobby)
@@ -11,7 +11,7 @@ Objective of this application is to provide a platform for students. Student,who
 
 
 ### Team Members
-* [Tarun Bhardwaj](https://github.com/TarunISCO)(Leader)
+* [Tarun Bhardwaj](https://github.com/TarunISCO) (Leader)
 * [Monika Singh](https://github.com/monikasingh20)
 * [Satyam Kumar](https://github.com/SatyamK23)
 * [Shubham Poddar](https://github.com/shubham6966)
